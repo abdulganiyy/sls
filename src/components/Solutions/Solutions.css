@@ -1,0 +1,64 @@
+.solutions {
+  padding: 3rem 10rem;
+  display: flex;
+}
+
+.solutions > div {
+  flex: 1;
+}
+
+.solutions img {
+  width: 100%;
+  background-color: #f3f7fd;
+}
+
+.solutions_left {
+  padding-right: 1rem;
+}
+
+.solutions_left_heading {
+  color: rgb(93, 193, 233);
+  font-weight: normal;
+}
+
+.solutions_left_heading-secondary {
+  font-weight: 600;
+  font-size: 2rem;
+  margin: 0.5rem 0;
+}
+
+.solutions_left_heading span {
+  display: inline-block;
+  width: 30px;
+  height: 2px;
+  background-color: rgb(93, 193, 233);
+  transform: translateY(-150%);
+}
+
+.checklist {
+  margin: 1rem 0;
+}
+
+.checklist span {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: #086ad8;
+  color: white;
+  font-size: 1rem;
+  padding: 0.2rem;
+}
+
+.solutions a {
+  display: inline-flex;
+  padding: 1rem;
+  text-decoration: none;
+  background-color: #086ad8;
+  color: white;
+  border-radius: 10px;
+  margin-top: 1rem;
+}

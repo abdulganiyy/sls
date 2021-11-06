@@ -1,0 +1,34 @@
+.about-component {
+  padding: 3rem 10rem;
+  display: flex;
+}
+
+.about-component > div {
+  flex: 1;
+}
+
+.about-component img {
+  width: 100%;
+}
+
+.about-component_left {
+  padding-right: 1rem;
+}
+
+.about-component_left_heading {
+  color: rgb(93, 193, 233);
+  font-weight: normal;
+}
+
+.about-component_left_heading-secondary {
+  font-weight: 600;
+  margin: 0.5rem 0;
+}
+
+.about-component_left_heading span {
+  display: inline-block;
+  width: 30px;
+  height: 2px;
+  background-color: rgb(93, 193, 233);
+  transform: translateY(-150%);
+}
