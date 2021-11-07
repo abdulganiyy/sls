@@ -27,10 +27,11 @@ const About = () => {
           improve in areas with shortfalls in the industry as we keep CLIENT
           SATISFACTION as our goal.
         </p>
-        <ProgressBar width={95} name="Software Development" />
-        <ProgressBar width={90} name="Data Science" />
-        <ProgressBar width={85} name="2D/3D Designs" />
-        <ProgressBar width={75} name="Digital Marketing" />
+        <ProgressBar width={95} name="Software Development & Training" />
+        <ProgressBar width={90} name="Data Science & Training" />
+        <ProgressBar width={92} name="Digital Marketing & Training" />
+        <ProgressBar width={96} name="Telecommunications" />
+        <ProgressBar width={97} name="CyberSecurity" />
       </div>
       <div className="about-component_right">
         <img src={AboutImg} alt="" />

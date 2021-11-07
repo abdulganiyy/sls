@@ -18,7 +18,7 @@ const Footer = () => {
         <div>
           <h4>Company</h4>
           <ul>
-            <li>Data Analysis Training </li>
+            <li>Data Science Training </li>
             <li>Digital Marketing Training</li>
           </ul>
         </div>
@@ -27,9 +27,9 @@ const Footer = () => {
           <ul>
             <li>Software Development</li>
             <li>Data Science</li>
-            <li>Game Development / Gamification</li>
+            <li>Telecommunications</li>
             <li>Digital Marketing </li>
-            <li>2D/3D Graphics</li>
+            <li>Cyber Security</li>
           </ul>
         </div>
         <div>
@@ -40,19 +40,19 @@ const Footer = () => {
                 {" "}
                 <FaMapMarkerAlt />
               </span>{" "}
-              10 Olusoji Idowu St, Ilupeju 100261, Lagos{" "}
+              30 Besides Kiddies Hospital, Olorunsogo, Ilorin, Kwara State.
             </li>
             <li>
               <span>
                 <FaEnvelope />
               </span>
-              Info@bcodestech.com support@bcodestech.com
+              info@slsbridgesolutions.com
             </li>
             <li>
               <span>
                 <FaPhone />
               </span>
-              +234 809 020 2326
+              +234 816 7963 525
             </li>
           </ul>
         </div>
