@@ -43,14 +43,23 @@
   border-radius: 2rem;
   text-decoration: none;
   color: white;
+  margin-top: 1rem;
 }
 
 @media (max-width: 900px) {
   .hero-content {
     padding-left: 2rem;
+    background-color: #3389e2;
+  }
+  .hero-bg {
+    display: none;
   }
 
   .hero-topimg {
     display: none;
+  }
+
+  .hero-content h2 {
+    font-size: 2rem;
   }
 }

@@ -12,9 +12,9 @@ const Hero = () => {
       <img src={HeroBg} alt="hero-background" className="hero-bg" />
       <img src={HeroTop} alt="hero-topimg" className="hero-topimg" />
       <div className="hero-content">
-        <h2>Software</h2>
-        <h2>Development</h2>
-        <h2>Company</h2>
+        <h2>IT</h2>
+        <h2>Telecommunication</h2>
+        <h2>Institute</h2>
         <div>
           <Link to="/about">Start Now</Link>
         </div>
