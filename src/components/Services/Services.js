@@ -14,28 +14,6 @@ const Services = () => {
         <div className="service">
           <div></div>
           <div>
-            <h4>Data Science & Training</h4>
-            <p>
-              We use scientific methods, and processes, to interpret data and
-              draw insights across a broad range of application and domains.
-            </p>
-          </div>
-        </div>
-        <div className="service">
-          <div></div>
-          <div>
-            <h4> Digital Marketing & Training</h4>
-            <p>
-              We provide a targeted, customized digital marketing strategy. We
-              deliver awareness creation for brands to becomes the first and
-              only choice for your consumers, resulting in high return on
-              investment yields.
-            </p>
-          </div>
-        </div>
-        <div className="service">
-          <div></div>
-          <div>
             <h4> Software Development & Training</h4>
             <p>
               We engage in conceiving, specifying, designing, programming,
@@ -61,6 +39,16 @@ const Services = () => {
         <div className="service">
           <div></div>
           <div>
+            <h4>Data Science & Training</h4>
+            <p>
+              We use scientific methods, and processes, to interpret data and
+              draw insights across a broad range of application and domains.
+            </p>
+          </div>
+        </div>
+        <div className="service">
+          <div></div>
+          <div>
             <h4>Cyber Security</h4>
             <p>
               We provide Cyber Security Solutions and Advisory, our overall
@@ -71,6 +59,18 @@ const Services = () => {
               clients. When it comes to Cyber Security Solutions, Advisory and
               Infrastructure, we are the go to place to get value for your
               investment.
+            </p>
+          </div>
+        </div>
+        <div className="service">
+          <div></div>
+          <div>
+            <h4> Digital Marketing & Training</h4>
+            <p>
+              We provide a targeted, customized digital marketing strategy. We
+              deliver awareness creation for brands to becomes the first and
+              only choice for your consumers, resulting in high return on
+              investment yields.
             </p>
           </div>
         </div>

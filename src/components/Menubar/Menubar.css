@@ -1,7 +1,7 @@
 .menubar {
   display: flex;
-  background-color: #217bdc;
-  color: white;
+  background-color: white;
+  color: #217bdc;
   align-items: center;
   padding: 1rem 2rem;
   justify-content: space-between;
@@ -28,7 +28,7 @@
 }
 
 .logo-box img {
-  width: 50px;
+  width: 80px;
 }
 
 @media (max-width: 900px) {
