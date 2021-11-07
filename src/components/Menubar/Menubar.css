@@ -1,6 +1,6 @@
 .menubar {
   display: flex;
-  background-color: #1974da;
+  background-color: #217bdc;
   color: white;
   align-items: center;
   padding: 1rem 2rem;
@@ -25,6 +25,10 @@
 .icons span {
   display: inline-block;
   margin-right: 0.5rem;
+}
+
+.logo-box img {
+  width: 50px;
 }
 
 @media (max-width: 900px) {

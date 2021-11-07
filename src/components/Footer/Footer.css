@@ -1,6 +1,6 @@
 .footer {
   background-color: #001d4c;
-  padding: 6rem;
+  padding: 6rem 2rem;
   color: white;
   display: flex;
   justify-content: center;
@@ -17,7 +17,8 @@
 }
 
 .footer > div > div {
-  margin-right: 0.5rem;
+  flex: 1;
+  margin-right: 1rem;
 }
 
 ul {

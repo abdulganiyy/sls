@@ -48,7 +48,7 @@
 
 @media (max-width: 900px) {
   .hero-content {
-    padding-left: 2rem;
+    padding-left: 1rem;
     background-color: #3389e2;
   }
   .hero-bg {
@@ -60,6 +60,6 @@
   }
 
   .hero-content h2 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
