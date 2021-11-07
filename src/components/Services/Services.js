@@ -65,6 +65,18 @@ const Services = () => {
         <div className="service">
           <div></div>
           <div>
+            <h4> Outsourcing Services</h4>
+            <p>
+              Our IT Outsourcing services allow business and institutions to
+              retain control over IT strategies for more effective delivery of
+              IT-enabled business and data analysis processes, application
+              services and infrastructure solutions for business outcomes.
+            </p>
+          </div>
+        </div>
+        <div className="service">
+          <div></div>
+          <div>
             <h4> Digital Marketing & Training</h4>
             <p>
               We provide a targeted, customized digital marketing strategy. We
