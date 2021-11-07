@@ -26,3 +26,12 @@
   display: inline-block;
   margin-right: 0.5rem;
 }
+
+@media (max-width: 900px) {
+  .menubar {
+    flex-direction: column;
+  }
+  .icons {
+    display: none;
+  }
+}

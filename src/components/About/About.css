@@ -32,3 +32,10 @@
   background-color: rgb(93, 193, 233);
   transform: translateY(-150%);
 }
+
+@media (max-width: 900px) {
+  .about-component {
+    padding: 1rem;
+    flex-direction: column;
+  }
+}
