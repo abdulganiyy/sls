@@ -1,0 +1,15 @@
+.application {
+  height: 200px;
+  padding: 1rem;
+}
+
+.application-link,
+.application-link:visited,
+.application-link:active {
+  text-decoration: none;
+  display: inline-block;
+  background-color: #228be6;
+  padding: 0.5rem 1rem;
+  border-radius: 0.8rem;
+  color: whitesmoke;
+}
